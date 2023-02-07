@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Deivid, welcome to my code space!
+## Hi there, I'm Deivid, welcome to my code space! 👋
 
 - 🔭 I’m currently looking for my first job
 - 🌱 I’m currently learning Python
