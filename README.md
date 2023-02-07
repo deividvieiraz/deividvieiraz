@@ -16,6 +16,7 @@
 <div>
   <a/ href="https://github.com/dvieirazzy">
     <img height='180cm' src="https://github-readme-stats.vercel.app/api?username=dvieirazzy&show_icons=true&theme=dark"/>
+    <img height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesantana&layout=compact&theme=dark"/>
   </a>
 </div>
 
