@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there! 👋 I'm Deivid, welcome to my code space!
 
 - 🔭 I’m currently looking for my first job
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Back-end development
-- 📫 How to reach me: mouravieiradeivid@gmail.com
+- 📫 My g-mail: mouravieiradeivid@gmail.com
 
 ### Best Technologies
 <div>
