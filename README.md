@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for my first job
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Back-end development
-- 📫 My g-mail: mouravieiradeivid@gmail.com
+- 📫 My g-mail: dehvieiraas@gmail.com
 
 ### Best Technologies
 <div>
