@@ -16,8 +16,8 @@
 ### My Stats
 <div>
   <a/ href="https://github.com/dvieirazzy">
-    <img height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvieirazzy&theme=dark"/>
-    <img height='180cm' src="https://github-readme-stats.vercel.app/api?username=dvieirazzy&show_icons=true&theme=dark"/>
+    <img height='170cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvieirazzy&theme=dark"/>
+    <img height='170cm' src="https://github-readme-stats.vercel.app/api?username=dvieirazzy&show_icons=true&theme=dark"/>
   </a>
 </div>
 
