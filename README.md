@@ -1,10 +1,10 @@
-## Prazer! Meu nome é Deivid, seja bem-vindo ao meu GitHub 👋
+## Prazer! Meu nome é Deivid, seja bem-vindo ao meu GitHub 😎
 
 - 🔭 Atualmente estou procurando por estágio na área de Desenvolvimento de Software
 - 🌱 Estou aprendendo JavaScript e Python
 - 📫 Meu e-mail para contato: dehvieiraas@gmail.com
 
-### Tecnologis 
+### Linguagens de Programação e Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='60'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 </div>
 
-### Status
+### Statics
 <div>
   <a/ href="https://github.com/dvieirazzy">
     <img height='170cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvieirazzy&theme=dark"/>
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-### Contatos
+### Contatos:
 <div>
   <a/ href="https://www.linkedin.com/in/deivid-vieira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
