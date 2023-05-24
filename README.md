@@ -1,19 +1,18 @@
-## Hi there, I'm Deivid, welcome to my code space! 👋
+## Prazer! Meu nome é Deivid, seja bem-vindo ao meu GitHub 👋
 
-- 🔭 I’m currently looking for my first job
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Back-end development
-- 📫 My g-mail: dehvieiraas@gmail.com
+- 🔭 Atualmente estou procurando por estágio na área de Desenvolvimento de Software
+- 🌱 Estou aprendendo JavaScript e Python
+- 📫 Meu e-mail para contato: dehvieiraas@gmail.com
 
-### Best Technologies
+### Tecnologis 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='60'/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='60'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width='60'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width='60'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='60'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 </div>
 
-### My Stats
+### Status
 <div>
   <a/ href="https://github.com/dvieirazzy">
     <img height='170cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvieirazzy&theme=dark"/>
@@ -21,7 +20,7 @@
   </a>
 </div>
 
-### My Contacts
+### Contatos
 <div>
   <a/ href="https://www.linkedin.com/in/deivid-vieira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
