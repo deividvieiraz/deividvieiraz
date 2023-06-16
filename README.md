@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 </div>
 
-### Statics
+### Status
 <div>
   <a/ href="https://github.com/dvieirazzy">
     <img height='170cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvieirazzy&theme=dark"/>
