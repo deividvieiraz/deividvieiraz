@@ -1,7 +1,7 @@
 ## Prazer! Meu nome é Deivid, seja bem-vindo ao meu GitHub 😎
 
 - 🔭 Atualmente estou procurando por estágio na área de Desenvolvimento de Software
-- 🌱 Estou aprendendo JavaScript e Python
+- 🌱 Estou aprendendo Java e Python
 - 📫 Meu e-mail para contato: dehvieiraas@gmail.com
 
 ### Linguagens de Programação e Tecnologias
