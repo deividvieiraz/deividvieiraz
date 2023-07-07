@@ -1,31 +1,41 @@
-## Prazer! Meu nome é Deivid, seja bem-vindo ao meu GitHub 😎
+## Hello, World! 👋
 
-- 🔭 Atualmente estou procurando por estágio na área de Desenvolvimento de Software
-- 🌱 Estou aprendendo Java e Python
-- 📫 Meu e-mail para contato: dehvieiraas@gmail.com
+<div align="center">
+  
+<img width="300cm" src="https://octodex.github.com/images/NUX_Octodex.gif" />
 
-### Linguagens de Programação e Tecnologias
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='60'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-</div>
+I'm a Back End Student, becoming a future Software Engineer
 
-### Status
-<div>
-  <a/ href="https://github.com/dvieirazzy">
-    <img height='170cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvieirazzy&theme=dark"/>
-    <img height='170cm' src="https://github-readme-stats.vercel.app/api?username=dvieirazzy&show_icons=true&theme=dark"/>
-  </a>
-</div>
+<details>
+  <summary>More about me</summary>
+<div align="left">
+ 
+``` js
+const Deivid = {
+    personal: {
+        fullName: 'Deivid Moura Vieira',
+        birthDate: '2003-07-20',
+        interests: ['music', 'more music', 'language learning', 'programming'],
+        motivation: [
+            'Make life easier and smarter through tech'
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                [HTML5, CSS3]
+            },
+            backEnd: {
+                [Java, Python]
+            }
+        },
+    }
+}
+```
+  </div>
+</details>
 
-### Contatos:
-<div>
-  <a/ href="https://www.linkedin.com/in/deivid-vieira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a/ href="https://www.instagram.com/dvieirazzy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dehvieiraas@gmail.com)
+[![Linkedin: Deivid Vieira](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-vieira/)
+[![GitHub: stebsnusch](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvieirazzy)
 </div>
