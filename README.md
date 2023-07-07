@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img width="300cm" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+![NUX Octodex](https://octodex.github.com/images/NUX_Octodex.gif)
 
 I'm a Back End Student, becoming a future Software Engineer
 
