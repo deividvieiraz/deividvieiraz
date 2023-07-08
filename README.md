@@ -28,10 +28,10 @@ const Deivid = {
     technical: {
         technologies: {
             frontEnd: {
-                [HTML5, CSS3]
+                ['HTML5', 'CSS3']
             },
             backEnd: {
-                [Java, Python]
+                ['Java', 'Python']
             }
         },
     }
