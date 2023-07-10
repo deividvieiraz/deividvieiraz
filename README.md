@@ -20,6 +20,7 @@ const Deivid = {
     personal: {
         fullName: 'Deivid Moura Vieira',
         birthDate: '2003-07-20',
+        location: São Paulo, Brazil
         interests: ['music', 'more music', 'language learning', 'programming'],
         motivation: [
             'Make life easier and smarter through tech'
@@ -34,6 +35,13 @@ const Deivid = {
                 ['Java', 'Python']
             }
         },
+        academic: {
+                ["Bacharelor in System Informations - FIAP"]
+        }
+        languages: {
+                ["Portuguese - Native"],
+                ["English - Intermediate"]
+        }
     }
 }
 ```
