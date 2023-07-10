@@ -37,7 +37,7 @@ const Deivid = {
         },
         academic: {
                 ["Bacharelor in System Informations - FIAP"]
-        }
+        },
         languages: {
                 ["Portuguese - Native"],
                 ["English - Intermediate"]
