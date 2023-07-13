@@ -19,7 +19,7 @@
 const Deivid = {
     personal: {
         fullName: 'Deivid Moura Vieira',
-        birthDate: '2003-07-20',
+        birthDate: '07-20-2003',
         location: 'São Paulo, Brazil',
         interests: ['music', 'more music', 'language learning', 'programming'],
         motivation: [
