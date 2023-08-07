@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### I'm a Back End Student, becoming a future Software Engineer
+### Software Developer Intern at @ Reply
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
