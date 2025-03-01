@@ -32,10 +32,10 @@ const Deivid = {
     technical: {
         technologies: {
             frontEnd: {
-                ['HTML', 'CSS', 'Bootstrap']
+                ['HTML', 'CSS', 'JavaScript', 'Bootstrap']
             },
             backEnd: {
-                ['Java', 'Kotlin', 'Spring Boot' ,'Python', 'SQL', 'MySQL']
+                ['Java', 'Kotlin', 'Spring Boot', 'Python', 'SQL', 'MySQL']
             }
         },
         academic: {
@@ -43,7 +43,7 @@ const Deivid = {
         },
         languages: {
                 ['Portuguese - Native'],
-                ['English - Intermediate']
+                ['English - Advanced']
         }
     }
 }
